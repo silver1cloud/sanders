@@ -36,15 +36,15 @@
 }
 html {
   background: lightgrey;
-  font-size: 16px;
-  box-sizing: border-box; 
+  font-size: 18px;
+  box-sizing: border-box;
 }
  *, *:before, *:after {
   box-sizing: inherit;
-} 
+}
 aside, article, section, header, footer, nav {
 	display: block;
-} 
+}
 body {
  max-width: 1200px;
  background: #fff;
@@ -54,6 +54,7 @@ body {
  padding: 2% 0%;
  font-family: "Abel", Sans-Serif;
  font-size: 1rem;
+ color: blue;
  font-weight: 300;
  line-height: 1.6rem;
 }
@@ -102,5 +103,3 @@ a {
   color: #fff;
   text-decoration: none;
 }
-
-  
